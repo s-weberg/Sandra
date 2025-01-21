@@ -1,0 +1,44 @@
+h1 {
+    color: rgba(235, 5, 139, 0.557);
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+    background-color: rgb(238, 187, 229);
+}
+
+h3 {
+    color: rgba(235, 5, 139, 0.557);
+}
+
+p {
+    color: white;
+}
+
+ol {
+    color: white;
+}
+
+.box {
+    background-color: rgb(238, 187, 229);
+    width: 550px;
+    height: 480px;
+    border: 1px solid rgba(235, 5, 139, 0.557);
+    padding: 10px;
+    margin: 10px;
+}
+
+body {
+    background-image: url(../images/doris2016.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 200vh;
+}
+
+img {
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgba(235, 5, 139, 0.557);
+    border-radius: 50%;
+}
